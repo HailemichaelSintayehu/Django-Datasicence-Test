@@ -1,0 +1,11 @@
+authors/__pycache__
+authors/migrations/__pycache__
+authors/migrations/000*.py
+books/__pycache__
+books/migrations/__pycache__
+books/migrations/000*.py
+users/__pycache__
+users/migrations/__pycache__
+users/migrations/000*.py
+venv
+db.sqlite3
